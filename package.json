@@ -1,0 +1,29 @@
+{
+  "name": "@randplus/buffer",
+  "version": "1.0.0",
+  "description": "Generate random buffers. This package is included in 'randplus'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoneko1102/randplus-buffer.git"
+  },
+  "keywords": [
+    "random",
+    "plus",
+    "addon",
+    "extension",
+    "math",
+    "number",
+    "buffer",
+    "byte"
+  ],
+  "author": "otoneko.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otoneko1102/randplus-buffer/issues"
+  },
+  "homepage": "https://github.com/otoneko1102/randplus-buffer#readme"
+}
