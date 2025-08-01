@@ -1,6 +1,6 @@
 {
   "name": "@randplus/buffer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate random buffers. This package is included in 'randplus'.",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/randplus/buffer/issues"
   },
-  "homepage": "https://github.com/randplus/buffer#readme"
+  "homepage": "https://github.com/randplus/buffer#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
 }
